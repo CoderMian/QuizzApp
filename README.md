@@ -3,6 +3,6 @@ In this App Beginner's can easily learn about Fetching API method in Swift for u
 
 
 
+https://user-images.githubusercontent.com/104327746/179445008-f2d26427-1a10-4512-8581-515fc75471df.mov
 
-Uploading Screen Recording 2022-07-05 at 2.00.19 AM
 
